@@ -1,0 +1,8 @@
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: Thisara,thisaraimc@gmail.com,clerk,2000/09/19
+Personal: sunil,suna,sunil@gmail.com,2000/10/10
+
+Personal: Anil,nil,Anil@gmail.com,2000/10/10
+Official: Sirimal,Sirimal@gmail.com,co-ordinator
+Office_friend: Sharith,Sharith@gmail.com,Doctor,2000/12/12
+Personal: Charindu,CT,charindu.20@cse.mrt.ac.lk,2000/09/19
